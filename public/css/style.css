@@ -142,3 +142,32 @@ footer ul li a {
   text-decoration: none;
   color: #777;
 }
+
+.container {
+  margin: 2rem auto;
+  width: 75%;
+}
+
+.form-container {
+  width: 75%;
+  text-align: center;
+  margin: 2rem auto;
+}
+
+.movie-data-list {
+  list-style: none;
+  line-height: 2rem;
+}
+
+.movie-data-list span {
+    font-weight: bold;
+}
+
+.result-container {
+    text-align: center;
+  }
+
+.back-button-container {
+    margin: 0 auto;
+    text-align: center;
+}
