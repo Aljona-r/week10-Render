@@ -160,14 +160,20 @@ footer ul li a {
 }
 
 .movie-data-list span {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .result-container {
-    text-align: center;
-  }
+  text-align: center;
+}
 
 .back-button-container {
-    margin: 0 auto;
-    text-align: center;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.chat-container {
+  position: fixed;
+  bottom: 0;
+  right: 0;
 }
